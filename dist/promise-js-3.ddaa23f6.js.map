@@ -1,0 +1,1 @@
+{"mappings":"AAAA,QAAQ,KAAK,CAAC;IACV,MAAM;AACR","sources":["js/fetchCountries.js"],"sourcesContent":["PNotify.alert({\r\n    text: 'Notice me, senpai!'\r\n  });"],"names":[],"version":3,"file":"promise-js-3.ddaa23f6.js.map","sourceRoot":"/__parcel_source_root/"}
