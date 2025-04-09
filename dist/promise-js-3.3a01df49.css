@@ -1,0 +1,32 @@
+.divMain {
+  flex-direction: column;
+  justify-content: center;
+  display: flex;
+}
+
+.infoDiv {
+  flex-direction: column;
+  gap: 20px;
+  display: flex;
+}
+
+span {
+  font-weight: bolder;
+}
+
+.mainInfoDiv {
+  align-items: center;
+  gap: 20px;
+  display: flex;
+}
+
+body {
+  font-family: Monserrat, sans-serif;
+  font-weight: normal;
+}
+
+img {
+  width: max-content;
+  height: min-content;
+}
+/*# sourceMappingURL=promise-js-3.3a01df49.css.map */

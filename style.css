@@ -1,0 +1,28 @@
+.divMain{
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+.infoDiv{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+span{
+    font-weight: bolder;
+}
+.mainInfoDiv{
+    gap: 20px;
+    display: flex;
+    align-items: center;
+
+}
+body{
+    font-family: 'Monserrat',sans-serif;
+    font-weight: normal;
+}
+img{
+    height: min-content;
+
+    width: max-content;
+}
